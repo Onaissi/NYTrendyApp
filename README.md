@@ -11,10 +11,6 @@ These instructions will get you a copy of the project up and running on your loc
 You have to install Android Studio to on your machine first. 
 Java SDK is also required. 
 
-```
-Give examples
-```
-
 ### Installing
 
 Open Android Studio
@@ -45,11 +41,17 @@ ExampleInstrumentTest  -> Run 'ExampleInstrumentTest'
 Similarly to run Unit tests,  go to project explorer. Expand com.onaissi.nytrendy (test), right click on 
 
 ```
-ExampleInstrumentTest  -> Run 'ExampleUnitTest'
+ExampleUnitTest  -> Run 'ExampleUnitTest'
 ```
 
+## Test coverage
+To run test coverage, go to project explorer, expand com.onaissi.nytrendy (test), right click on 
 
-## Authors
+```
+ExampleUnitTest  -> Run 'ExampleUnitTest' with coverage
+```
+
+## Author
 
 * **Onaissi** - *Initial work* 
 
